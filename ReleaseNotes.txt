@@ -1,0 +1,10 @@
+Release notes 1.0.0
+
+- Change difficulty algorithm using ZAWY
+- Change POW using CN Arto Variant
+- Change release name to NGGEMESI
+
+Release notes 0.1.0
+
+- 15% APR
+
